@@ -44,6 +44,31 @@ A complete car rental platform built in PHP and MySQL, with online payments thro
 
 `PHP` `MySQL` `Flutterwave API` `Payments`
 
+### 💰 [Naira Expense Tracker (Flutter)](https://github.com/Josephobaje/naira-expense-tracker-flutter)
+A Material 3 Flutter app for tracking spending and income in Naira, with categories, monthly budget progress, pie and bar charts, local storage, and light and dark themes.
+
+`Flutter` `Dart` `fl_chart` `Material 3`
+
+### 🛡️ [Security Log Analyzer (Python)](https://github.com/Josephobaje/security-log-analyzer)
+A command-line tool that analyses SSH auth logs and Apache/Nginx access logs for brute force attacks, scanners, SQL injection, XSS, path traversal and Log4Shell, with terminal, JSON, CSV and HTML reports.
+
+`Python` `Cybersecurity` `Log Analysis` `CLI`
+
+### 🔎 [WP Smart SEO (WordPress Plugin)](https://github.com/Josephobaje/wp-smart-seo)
+A lightweight WordPress SEO plugin with per-post meta titles and descriptions, Open Graph and Twitter tags, JSON-LD schema, an XML sitemap and canonical URLs, built to WordPress Coding Standards.
+
+`WordPress` `PHP` `SEO` `PHPUnit`
+
+### ✅ [Task Manager API (FastAPI)](https://github.com/Josephobaje/fastapi-task-manager-api)
+A REST API for projects and tasks with JWT authentication, filters, sorting, pagination, due dates and priorities, built with FastAPI, SQLAlchemy 2, Pydantic v2 and Alembic migrations.
+
+`Python` `FastAPI` `SQLAlchemy` `JWT` `REST API`
+
+### 🌐 [Developer Portfolio](https://github.com/Josephobaje/developer-portfolio)
+My personal portfolio site, built with plain HTML, CSS and JavaScript, with a dark/light theme, project filters and accessible, SEO-friendly markup. It is live on GitHub Pages.
+
+`HTML` `CSS` `JavaScript` `GitHub Pages`
+
 ## 📊 GitHub Stats
 
 ![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=Josephobaje&show_icons=true&theme=default)
@@ -52,3 +77,4 @@ A complete car rental platform built in PHP and MySQL, with online payments thro
 
 - 💼 LinkedIn: [joseph-obaje](https://www.linkedin.com/in/joseph-obaje)
 - 📧 Email: [josephobaje264@gmail.com](mailto:josephobaje264@gmail.com)
+- 🌐 Portfolio: [josephobaje.github.io/developer-portfolio](https://josephobaje.github.io/developer-portfolio/)
