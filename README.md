@@ -22,9 +22,24 @@ I build secure, practical web apps and Flutter mobile apps, from payment-ready b
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
-### [Car Rental System with Flutterwave Payments](https://github.com/Josephobaje/Car-Rental-System-with-Flutterwave-payment-system)
+### 📱 [Shipment Tracker (Flutter)](https://github.com/Josephobaje/shipment-tracker-flutter)
+A Material 3 Flutter app for tracking deliveries across Nigerian cities, with search by tracking number, status filters, a live progress bar, an event timeline, and light and dark themes.
+
+`Flutter` `Dart` `Material 3` `Mobile`
+
+### 🔐 [Password Security Toolkit (Python)](https://github.com/Josephobaje/password-security-toolkit)
+A privacy-first command-line tool that scores password strength, checks passwords against known breaches through Have I Been Pwned using k-anonymity, and generates secure passwords and passphrases.
+
+`Python` `Cybersecurity` `CLI` `pytest`
+
+### 🛒 [Inventory & Orders API (PHP)](https://github.com/Josephobaje/inventory-orders-api-php)
+A framework-free PHP 8 and MySQL REST API with JWT login, admin and staff roles, product search and pagination, low-stock reports, and stock-safe order transactions, documented with OpenAPI.
+
+`PHP` `MySQL` `REST API` `JWT` `Docker`
+
+### 🚗 [Car Rental System with Flutterwave Payments](https://github.com/Josephobaje/Car-Rental-System-with-Flutterwave-payment-system)
 A complete car rental platform built in PHP and MySQL, with online payments through Flutterwave. Customers can browse cars, book rentals, and pay securely online.
 
 `PHP` `MySQL` `Flutterwave API` `Payments`
