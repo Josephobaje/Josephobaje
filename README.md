@@ -88,6 +88,11 @@ A Material 3 Flutter shopping app with a product catalogue, search and categorie
 
 `Flutter` `Dart` `Provider` `E-commerce`
 
+### 💬 [Chatly Chat App UI (Flutter)](https://github.com/Josephobaje/flutter-chat-app-ui)
+A modern Flutter chat app with real-time streams, typing indicators, read receipts, search and dark mode, built on a repository layer that is ready for Firebase Cloud Firestore.
+
+`Flutter` `Dart` `Firebase-ready` `Chat`
+
 ### 📊 [ShopPulse Admin Dashboard (React)](https://github.com/Josephobaje/react-admin-dashboard)
 A responsive React and Vite admin dashboard with revenue and order charts, sortable and searchable data tables, CSV export and a dark mode, using Naira sales data.
 
