@@ -93,6 +93,11 @@ A modern Flutter chat app with real-time streams, typing indicators, read receip
 
 `Flutter` `Dart` `Firebase-ready` `Chat`
 
+### 🛡️ [Family Safety Parental Controls (Flutter)](https://github.com/Josephobaje/flutter-family-safety-app)
+A transparent, consent-based parental-controls app with a parent dashboard, daily and per-category screen-time limits, app blocking, location sharing with consent, bedtime downtime and fl_chart reports. Monitoring data is simulated, with no stealth mode by design.
+
+`Flutter` `Dart` `Provider` `fl_chart`
+
 ### 📊 [ShopPulse Admin Dashboard (React)](https://github.com/Josephobaje/react-admin-dashboard)
 A responsive React and Vite admin dashboard with revenue and order charts, sortable and searchable data tables, CSV export and a dark mode, using Naira sales data.
 
