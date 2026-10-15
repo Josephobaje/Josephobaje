@@ -28,6 +28,31 @@ I build secure, practical web apps and Flutter mobile apps, from payment-ready b
 
 ## 🚀 Featured Projects
 
+### 🛵 [ChopNow Food Delivery App (Flutter + Node.js)](https://github.com/Josephobaje/flutter-food-delivery-app)
+A three-sided food delivery app with customer, rider and kitchen views, a Paystack checkout mock, simulated live rider tracking on a map, and an Express REST API for the order lifecycle.
+
+`Flutter` `Dart` `Node.js` `Express` `Paystack`
+
+### 💸 [NairaPay Fintech Wallet (Flutter)](https://github.com/Josephobaje/flutter-fintech-wallet-app)
+A digital wallet with card funding, bank transfers with NUBAN validation and daily limits, airtime and data top-ups, transaction history, PIN lockout and biometric login, all in kobo-accurate Naira.
+
+`Flutter` `Dart` `Fintech` `Provider`
+
+### 📅 [BookEasy Booking App (Flutter + Admin Dashboard)](https://github.com/Josephobaje/booking-appointment-app)
+Appointment booking for salons and clinics: calendar strip, clash-free time slots per staff member, 30% Paystack deposit mock, automatic reminders and a web admin dashboard with revenue and utilisation stats.
+
+`Flutter` `Dart` `JavaScript` `Scheduling`
+
+### 🤖 [AI Chatbot Assistant (FastAPI)](https://github.com/Josephobaje/ai-chatbot-assistant)
+A customer-support chatbot that answers from your own FAQ knowledge base, with any OpenAI-compatible LLM or a fully offline TF-IDF fallback, chat history and a web chat UI.
+
+`Python` `FastAPI` `LLM` `RAG` `pytest`
+
+### 🏠 [HomeFinder NG Real Estate App (Flutter)](https://github.com/Josephobaje/flutter-real-estate-app)
+Property listings for Lagos and Abuja with search filters, sorting, a map view with price pins, favourites, a details gallery and agent chat.
+
+`Flutter` `Dart` `Maps` `Real Estate`
+
 ### 📱 [Shipment Tracker (Flutter)](https://github.com/Josephobaje/shipment-tracker-flutter)
 A Material 3 Flutter app for tracking deliveries across Nigerian cities, with search by tracking number, status filters, a live progress bar, an event timeline, and light and dark themes.
 
