@@ -28,6 +28,42 @@ I build secure, practical web apps and Flutter mobile apps, from payment-ready b
 
 ## 🚀 Featured Projects
 
+### 🎓 [EduTrack NG School Management App (Flutter)](https://github.com/Josephobaje/flutter-school-management-app)
+School management with admin, teacher and parent roles: students, fee balances and payments, results with automatic grades, attendance and announcements.
+
+`Flutter` `Dart` `Education` `School Management`
+
+### 🛒 [ShopPOS POS and Inventory App (Flutter)](https://github.com/Josephobaje/flutter-pos-inventory-app)
+Point of sale for shops: fast checkout, stock with low-stock alerts, receipts, a barcode placeholder and daily sales reports in Naira.
+
+`Flutter` `Dart` `POS` `Inventory`
+
+### 🏥 [MediCare NG Clinic Management App (Flutter)](https://github.com/Josephobaje/flutter-clinic-management-app)
+Clinic management: patient records, an appointment queue, pharmacy stock with low alerts, and billing for consultation, drugs and labs.
+
+`Flutter` `Dart` `Healthcare` `Clinic`
+
+### ⛪ [ChurchHub Church Management App (Flutter)](https://github.com/Josephobaje/flutter-church-management-app)
+Church management: member directory, offerings and tithes records, service attendance, fellowship groups, events and announcements.
+
+`Flutter` `Dart` `Church Management`
+
+### 🚚 [TrackFleet Logistics Tracking App (Flutter)](https://github.com/Josephobaje/flutter-logistics-tracking-app)
+Logistics company app: parcel creation, a five-step tracking timeline, a rider delivery view, proof-of-delivery placeholder and company dashboard stats.
+
+`Flutter` `Dart` `Logistics` `Fleet`
+
+### 💰 [AjoSave Esusu Savings App (Flutter)](https://github.com/Josephobaje/flutter-esusu-savings-app)
+Ajo and esusu savings: savings groups, contribution rotation and payout order, member contribution history and a personal wallet.
+
+`Flutter` `Dart` `Esusu` `Fintech`
+
+### 📚 [LearnHub NG E-Learning App (Flutter)](https://github.com/Josephobaje/flutter-elearning-app)
+E-learning with local courses and lessons, quizzes with instant scoring, per-course progress and a certificate placeholder.
+
+`Flutter` `Dart` `E-Learning` `Education`
+
+
 ### 🛵 [ChopNow Food Delivery App (Flutter + Node.js)](https://github.com/Josephobaje/flutter-food-delivery-app)
 A three-sided food delivery app with customer, rider and kitchen views, a Paystack checkout mock, simulated live rider tracking on a map, and an Express REST API for the order lifecycle.
 
