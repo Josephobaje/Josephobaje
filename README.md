@@ -28,6 +28,41 @@ I build secure, practical web apps and Flutter mobile apps, from payment-ready b
 
 ## 🚀 Featured Projects
 
+### 🏨 [StayManager NG Hotel Management App (Flutter)](https://github.com/Josephobaje/flutter-hotel-management-app)
+Hotel and guest house management: rooms and availability, guest bookings, check-in/out and a billing total in Naira.
+
+`Flutter` `Dart` `Hotel Management` `Booking`
+
+### 💊 [PharmaStock NG Pharmacy Stock App (Flutter)](https://github.com/Josephobaje/flutter-pharmacy-stock-app)
+Pharmacy inventory: medicine CRUD and search, near-expiry alerts, low-stock flags and a sales record.
+
+`Flutter` `Dart` `Pharmacy` `Inventory`
+
+### 🚌 [TravelBook NG Transport Booking App (Flutter)](https://github.com/Josephobaje/flutter-transport-booking-app)
+Interstate transport booking: routes and motor parks, interactive seat selection, passenger booking and a Paystack test-mode checkout placeholder.
+
+`Flutter` `Dart` `Transport` `Booking` `Paystack`
+
+### 🏦 [LoanManager NG Microfinance Loan App (Flutter)](https://github.com/Josephobaje/flutter-microfinance-loan-app)
+Microfinance loans: customers, loan approval, a repayment schedule, guarantor records and outstanding balances.
+
+`Flutter` `Dart` `Microfinance` `Loans` `Fintech`
+
+### 🍽️ [DineOrder NG Restaurant Ordering App (Flutter)](https://github.com/Josephobaje/flutter-restaurant-ordering-app)
+Restaurant ordering: menu by category, cart, table and QR orders, a kitchen status board and a payment placeholder.
+
+`Flutter` `Dart` `Restaurant` `Food Ordering`
+
+### 🏠 [RentManager NG Rent Management App (Flutter)](https://github.com/Josephobaje/flutter-real-estate-rent-app)
+Rent management for landlords and agents: properties, tenants, rent-due reminders and 10% agent fees. Distinct from HomeFinder listings.
+
+`Flutter` `Dart` `Real Estate` `Rent Management`
+
+### 💇 [GlamBook NG Salon Booking App (Flutter)](https://github.com/Josephobaje/flutter-salon-booking-app)
+Salon and barbershop booking: services, stylist selection, booking slots, a deposit payment placeholder and reminders.
+
+`Flutter` `Dart` `Salon` `Booking` `Beauty`
+
 ### 🎓 [EduTrack NG School Management App (Flutter)](https://github.com/Josephobaje/flutter-school-management-app)
 School management with admin, teacher and parent roles: students, fee balances and payments, results with automatic grades, attendance and announcements.
 
